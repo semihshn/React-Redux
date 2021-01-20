@@ -1,6 +1,6 @@
 # React
 
-##### React , kullanıcı arayüzü oluşturmaya yarayan açık kaynak kodlu web uygulama çatısıdır. 
+ React , kullanıcı arayüzü oluşturmaya yarayan açık kaynak kodlu web uygulama çatısıdır. 
 ##### Facebook önderliğinde bir geliştirici grubu tarafından geliştirilmekte olan React, 
 ##### Model-View-Controller prensibine uygun olarak oluşturulmuştur.
 
