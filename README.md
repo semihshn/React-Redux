@@ -1,12 +1,12 @@
 # React
 
- React , kullanıcı arayüzü oluşturmaya yarayan açık kaynak kodlu web uygulama çatısıdır. 
+- React , kullanıcı arayüzü oluşturmaya yarayan açık kaynak kodlu web uygulama çatısıdır. 
  Facebook önderliğinde bir geliştirici grubu tarafından geliştirilmekte olan React, 
  Model-View-Controller prensibine uygun olarak oluşturulmuştur.
 
 # Redux
 
- React js de componentler arası iletişim kurmak hayli zordu , bir ağaç veri yapısı 
+ - React js de componentler arası iletişim kurmak hayli zordu , bir ağaç veri yapısı 
  hayal edersek root düğümümüz main componentimiz oluyordu ve diğer tüm yapraklara yani
  componentlere burdan , main component'den "Component Drilling" yöntemiyle 
  state'lerimizi yani verilerimizi yolluyorduk ve bu işlem tek seferde olmuyordu mesela
